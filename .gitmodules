@@ -1,0 +1,6 @@
+[submodule "plugins/sd"]
+	path = plugins/sd
+	url = git@github.com:ianthehenry/sd.git
+[submodule "plugins/zsh-autosuggestions"]
+	path = plugins/zsh-autosuggestions
+	url = git@github.com:zsh-users/zsh-autosuggestions
